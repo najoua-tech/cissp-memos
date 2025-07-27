@@ -12,6 +12,7 @@ Each memo is bilingual (English / French) and focuses on high-yield topics and e
 - [D1.2 – Frameworks and Standards](memos/D1.2_Frameworks-and-Standards.md)
 - [D1.3 – ISC² Code of Ethics](memos/D1.3_ISC2-Code-of-Ethics.md)
 - [D1.5 – Threat Modeling (STRIDE, PASTA, VAST, DREAD)](memos/D1.5_Threat-Modeling.md)
+- [D1.6 – Risk Acceptance and Treatment (RTO, RPO, MTD)](memos/D1.6_Risk-Acceptance-and-Treatment.md)
 
 ## 🔐 Domain 2 – Asset Security
 
