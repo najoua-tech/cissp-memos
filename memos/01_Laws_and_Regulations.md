@@ -1,0 +1,118 @@
+# 📚 Domain 1 – Security and Risk Management
+
+## 🧾 Laws and Regulations (🇬🇧 / 🇫🇷)
+
+This memo summarizes major security-related laws and regulations for the CISSP exam.  
+Ce mémo résume les lois et régulations principales à connaître pour CISSP.
+
+---
+
+## 🇺🇸 United States Laws
+
+### 🟦 GLBA – Gramm–Leach–Bliley Act (1999)
+
+- **Purpose**: Protect personal financial information.
+- **Scope**: Banks, credit unions, insurance companies.
+- **Key parts**:
+  - Financial Privacy Rule (privacy notices)
+  - Safeguards Rule (security controls)
+  - Pretexting Rule (no social engineering)
+
+🧠 _French:_
+
+> Protège les données personnelles **financières**. S’applique aux banques, assureurs, courtiers.  
+> Oblige à informer les clients + mettre des mesures de sécurité + interdire l’usurpation.
+
+---
+
+### 🟦 SOX – Sarbanes–Oxley Act (2002)
+
+- **Purpose**: Prevent financial fraud in publicly traded companies.
+- **Scope**: U.S. stock market companies.
+- **Key concept**: Requires integrity of financial reporting and audit trail.
+
+🧠 _French:_
+
+> Vise les entreprises cotées en bourse. Oblige à maintenir des preuves d’audit, empêche la falsification de rapports financiers.
+
+---
+
+### 🟩 HIPAA – Health Insurance Portability and Accountability Act (1996)
+
+- **Purpose**: Protect patient health information (PHI).
+- **Scope**: Healthcare providers, insurers, and business associates.
+- **Key concept**: Privacy Rule + Security Rule + Breach Notification Rule.
+
+🧠 _French:_
+
+> Protège les **informations médicales personnelles**.  
+> S’applique aux hôpitaux, mutuelles, cliniques, prestataires de santé.
+
+---
+
+### 🟨 FERPA – Family Educational Rights and Privacy Act (1974)
+
+- **Purpose**: Protect student academic records.
+- **Scope**: Schools and universities that receive U.S. federal funding.
+- **Rights**: Parents and students can request access, correction, or restriction.
+
+🧠 _French:_
+
+> Protège les **dossiers scolaires**.  
+> Donne aux parents/étudiants le droit de consulter ou corriger les fichiers.
+
+---
+
+### 🟥 FISMA – Federal Information Security Management Act (2002)
+
+- **Purpose**: Secure federal government IT systems.
+- **Scope**: Federal agencies + contractors
+- **Framework**: Uses NIST standards (SP 800-53, 800-171)
+
+🧠 _French:_
+
+> Imposée aux agences fédérales et à leurs sous-traitants.  
+> Oblige à utiliser les guides du **NIST** pour sécuriser les systèmes d’information.
+
+---
+
+## 🇪🇺 European Regulations
+
+### 🟦 GDPR – General Data Protection Regulation (2018)
+
+- **Purpose**: Protect personal data and privacy of EU citizens.
+- **Scope**: Any company that collects/processes data of EU citizens.
+- **Key principles**: Consent, Right to access, Right to erasure (right to be forgotten)
+
+🧠 _French:_
+
+> Règlement européen qui protège toutes les **données personnelles**.  
+> Applicable même hors UE si on traite des données de résidents européens.
+
+---
+
+## 🔁 Data Transfer Mechanisms (GDPR)
+
+| Term                                   | Description                                                                      | Astuce                  |
+| -------------------------------------- | -------------------------------------------------------------------------------- | ----------------------- |
+| **SCC** – Standard Contractual Clauses | Contract clauses for cross-border data transfers between **different companies** | "S" → Sociétés Séparées |
+| **BCR** – Binding Corporate Rules      | Internal policy between **subsidiaries of same group**                           | "B" → Business interne  |
+| **Privacy Shield**                     | ❌ Invalidated in 2020 (Schrems II)                                              | Obsolète                |
+| **Safe Harbor**                        | ❌ Invalidated in 2015 (Schrems I)                                               | Ancien accord           |
+
+---
+
+## ✅ Tips for Exam
+
+- GLBA = 🏦 data privacy in finance
+- HIPAA = 🏥 patient health data
+- FERPA = 🎓 student records
+- SOX = 📊 financial transparency
+- FISMA = 🏛️ government systems
+- GDPR = 🇪🇺 personal data for EU citizens
+
+---
+
+> 🧠 Remember: if it’s about **financial customer info**, think **GLBA**.  
+> If it’s **student info**, think **FERPA**.  
+> If it’s **EU personal data**, think **GDPR + SCC/BCR**.
