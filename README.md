@@ -9,10 +9,8 @@ Each memo is bilingual (English / French) and focuses on high-yield topics and e
 ## 📘 Domain 1 – Security & Risk Management
 
 - [D1.1 – Laws and Regulations](memos/D1.1_Laws-and-Regulations.md)
-- D1.2 – Frameworks and Standards _(coming soon)_
-- D1.3 – ISC² Code of Ethics _(coming soon)_
-- [Ethics & Code of Conduct (ISC² Canons)](memos/05_ISC2_Code_of_Ethics.md)
-- [Compliance Frameworks (ISO, NIST...)](memos/03_Frameworks_and_Standards.md)
+- [D1.2 – Frameworks and Standards](memos/D1.2_Frameworks-and-Standards.md)
+- [D1.3 – ISC² Code of Ethics](memos/D1.3_ISC2-Code-of-Ethics.md)
 
 ## 🔐 Domain 2 – Asset Security
 
