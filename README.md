@@ -11,6 +11,7 @@ Each memo is bilingual (English / French) and focuses on high-yield topics and e
 - [D1.1 – Laws and Regulations](memos/D1.1_Laws-and-Regulations.md)
 - [D1.2 – Frameworks and Standards](memos/D1.2_Frameworks-and-Standards.md)
 - [D1.3 – ISC² Code of Ethics](memos/D1.3_ISC2-Code-of-Ethics.md)
+- [D1.5 – Threat Modeling (STRIDE, PASTA, VAST, DREAD)](memos/D1.5_Threat-Modeling.md)
 
 ## 🔐 Domain 2 – Asset Security
 
@@ -20,9 +21,10 @@ Each memo is bilingual (English / French) and focuses on high-yield topics and e
 
 ## 🛠️ Domain 3 – Security Architecture and Engineering
 
-- [Security Models (Bell–LaPadula, Biba...)](memos/D3.1_Security-Models.md)
-- Trusted Computing, TCB, Security Kernel
-- EAL Levels / Common Criteria
+- [D3.1 – Security Models (Bell–LaPadula, Biba, Clark–Wilson...)](memos/D3.1_Security-Models.md)
+- [D3.2 – Cryptography (Symmetric, Asymmetric, Hashing, PKI)](memos/D3.2_Cryptography.md)
+- Trusted Computing, TCB, Security Kernel _(coming soon)_
+- EAL Levels / Common Criteria _(coming soon)_
 
 ## 🌐 Domain 4 – Network Security
 
