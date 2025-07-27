@@ -20,7 +20,7 @@ Each memo is bilingual (English / French) and focuses on high-yield topics and e
 
 ## 🛠️ Domain 3 – Security Architecture and Engineering
 
-- [Security Models (Bell–LaPadula, Biba...)](memos/02_Security_Models.md)
+- [Security Models (Bell–LaPadula, Biba...)](memos/D3.1_Security-Models.md)
 - Trusted Computing, TCB, Security Kernel
 - EAL Levels / Common Criteria
 
