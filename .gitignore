@@ -1,0 +1,13 @@
+# 🛑 Fichiers personnels à ne pas versionner
+complete-documenter.js
+project-structure.md
+
+# 🧪 Fichiers temporaires ou de test (optionnel)
+*.log
+*.tmp
+temp/
+drafts/
+
+# 💻 Dossiers liés à certains éditeurs (facultatif)
+.vscode/
+.idea/
