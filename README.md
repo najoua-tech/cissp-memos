@@ -36,3 +36,7 @@ Each memo is bilingual (English / French) and focuses on high-yield topics and e
 - Covert Channels (Timing / Storage)
 
 ...
+
+## ✅ Planning
+
+- [Domain 1 – TODO Checklist](D1_TODO_Laws_Checklist.md)
