@@ -9,6 +9,8 @@ Comprendre la sécurité, ce n’est pas juste maîtriser les contrôles dans un
 
 Ce dépôt est ma façon de structurer, synthétiser et ancrer ces concepts pour les réutiliser concrètement dans mes pratiques professionnelles.
 
+Ce dépôt contient mes mémos de révision personnels pour la certification CISSP. En construction continue.
+
 🗣️ ENGLISH
 To me, the CISSP is not just a domain-by-domain checklist — it’s a way of thinking holistically about security. It aims to build a wide-reaching mindset that blends strategic, operational, and human aspects of cybersecurity.
 
@@ -16,7 +18,7 @@ True security understanding comes from connecting all domains into real-world ap
 
 This repository is my way to organize, digest, and internalize key concepts to make them actionable in real-world situations.
 
-Ce dépôt contient mes mémos de révision personnels pour la certification CISSP. En construction continue./This repository contains my personal review memos for the CISSP certification. In continuous construction.
+This repository contains my personal review memos for the CISSP certification. In continuous construction.
 
 It's important to understand all the concepts
 
