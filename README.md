@@ -36,13 +36,21 @@ Each memo is bilingual (English / French) and focuses on high-yield topics and e
 
 - [D3.1 – Security Models (Bell–LaPadula, Biba, Clark–Wilson...)](memos/D3.1_Security-Models.md)
 - [D3.2 – Cryptography (Symmetric, Asymmetric, Hashing, PKI)](memos/D3.2_Cryptography.md)
-- Trusted Computing, TCB, Security Kernel _(coming soon)_
-- EAL Levels / Common Criteria _(coming soon)_
+- Digital Signatures & PKI (X.509, CA)
+- TCB, Security Perimeter & Reference Monitor
+- Certification vs Accreditation
+- Modes CPU (User vs Privileged)
+- Aggregation vs Inference Attacks
+- Secure Protocols (TLS, IPsec)
 
 ## 🌐 Domain 4 – Network Security
 
-- Network Protocols
-- VPN, Firewalls, IDS/IPS
-- Covert Channels (Timing / Storage)
+- OSI Layers & Network Devices
+- Common Protocols (Ports: 20–443)
+- Network Segmentation (VLANs, Firewalls, DMZ)
+- Wireless Security (WPA2 vs WEP)
+- VPN & IPsec (AH, ESP)
+- Cloud Models (SaaS, PaaS, IaaS)
+- Cloud Types (Public, Private, Hybrid, Community)
 
 ...
