@@ -1,6 +1,22 @@
 # 🛡️ CISSP Technical Memos (🇬🇧/🇫🇷)
 
+## Pourquoi CISSP ? (point de vue personnel)
+
+(Version française) Pour moi, la certification CISSP n’est pas seulement un ensemble de concepts à apprendre domaine par domaine, mais un cadre de pensée global. Elle vise à atteindre une vision d’ensemble de la cybersécurité — stratégique, opérationnelle et humaine.
+
+Comprendre la sécurité, ce n’est pas juste maîtriser les contrôles dans un domaine spécifique, mais intégrer tous les domaines dans des situations réelles : protéger les actifs, anticiper les risques, accompagner les équipes, automatiser les opérations, renforcer l'architecture, tout en gardant une vue orientée business.
+
+Ce dépôt est ma façon de structurer, synthétiser et ancrer ces concepts pour les réutiliser concrètement dans mes pratiques professionnelles.
+
+(English version) To me, the CISSP is not just a domain-by-domain checklist — it’s a way of thinking holistically about security. It aims to build a wide-reaching mindset that blends strategic, operational, and human aspects of cybersecurity.
+
+True security understanding comes from connecting all domains into real-world applications: securing assets, anticipating risks, guiding teams, automating operations, strengthening architectures — all while aligning with business goals.
+
+This repository is my way to organize, digest, and internalize key concepts to make them actionable in real-world situations.
+
 Ce dépôt contient mes mémos de révision personnels pour la certification CISSP. En construction continue./This repository contains my personal review memos for the CISSP certification. In continuous construction.
+
+It's important to understand all the concepts
 
 This repository contains structured cybersecurity notes organized by CISSP domains, following the official ISC² CBK (Common Body of Knowledge).
 
