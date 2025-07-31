@@ -1,5 +1,8 @@
 # 🛡️ CISSP Technical Memos (🇬🇧/🇫🇷)
 
+🌐 **Voir la version web du site** :  
+🔗 [https://najoua-tech.github.io/cissp-memos/](https://najoua-tech.github.io/cissp-memos/)
+
 ## Pourquoi CISSP ? (point de vue personnel)
 
 🗣️ FRANÇAIS
