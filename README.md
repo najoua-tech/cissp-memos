@@ -53,4 +53,15 @@ Each memo is bilingual (English / French) and focuses on high-yield topics and e
 - Cloud Models (SaaS, PaaS, IaaS)
 - Cloud Types (Public, Private, Hybrid, Community)
 
+## 👤 Domain 5 – Identity and Access Management
+
+- Identification, Authentication, Authorization
+- Authentication Factors (MFA: Knowledge, Possession, Biometric)
+- Access Control Types (DAC, MAC, RBAC)
+- SSO & Kerberos Flow
+- Access Control Models (ACLs, Implicit Deny)
+- RADIUS, TACACS+
+- Password Attacks (Brute Force, Rainbow Table)
+- Biometrics (CER, FAR, FRR)
+
 ...
