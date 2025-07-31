@@ -120,3 +120,19 @@ Each memo is bilingual (English / French) and focuses on high-yield topics and e
 - Software Assurance & Change Management
 - Threat Modeling in Development
 - Deployment Hardening & Patch Management
+
+## 🛠️ Mise à jour rapide du site
+
+Tu peux utiliser les scripts du dossier [`scripts/`](./scripts) pour déployer le site :
+
+- **Sur Linux/macOS (bash)** :
+
+  ```bash
+  ./scripts/deploy.sh
+  ```
+
+  - **Sur Windows (PowerShell) :** :
+
+  ```bash
+  .\scripts\deploy.ps1
+  ```

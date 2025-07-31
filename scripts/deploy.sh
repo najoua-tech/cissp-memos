@@ -1,6 +1,3 @@
-### 🔹 `scripts/deploy.sh`
-
-```bash
 #!/bin/bash
 git add .
 git commit -m "Update site and contenu"
