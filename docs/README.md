@@ -33,14 +33,14 @@ Each memo is bilingual (English / French) and focuses on high-yield topics and e
 ## 📘 Domain 1 – Security & Risk Management
 
 - D1.0 – CIA Triad (Confidentiality, Integrity, Availability)
-- [D1.1 – Laws and Regulations](docs/memos/D1.1_Laws-and-Regulations.md)
-- [D1.2 – Governance: Policies, Standards, Guidelines, Procedures](docs/memos/D1.2_Governance_Policies_Standards_Guidelines_Procedures.md)
-- [D1.3 – ISC² Code of Ethics](docs/memos/D1.3_ISC2-Code-of-Ethics.md)
+- [D1.1 – Laws and Regulations](memos/D1.1_Laws-and-Regulations.md)
+- [D1.2 – Governance: Policies, Standards, Guidelines, Procedures](memos/D1.2_Governance_Policies_Standards_Guidelines_Procedures.md)
+- [D1.3 – ISC² Code of Ethics](memos/D1.3_ISC2-Code-of-Ethics.md)
 - D1.4 – Roles & Responsibilities (Owner, Custodian, Privacy Officer)
-- [D1.5 – Threat Modeling (STRIDE, PASTA, VAST, DREAD)](docs/memos/D1.5_Threat-Modeling.md)
-- [D1.6 – Risk Acceptance and Treatment (Avoid, Mitigate, Transfer, Accept)](docs/memos/D1.6_Risk-Acceptance-and-Treatment.md)
-- [D1.7 – Security Control Types & Functions (Preventive, Detective...)](docs/memos/D1.7_Security-Control-Types.md)
-- [D1.8 - Risk Assessment types (Qualitative, Quantitative: ALE, SLE, ARO)](docs/memos/D1.8_Risk-Assessment-Types.md)
+- [D1.5 – Threat Modeling (STRIDE, PASTA, VAST, DREAD)](memos/D1.5_Threat-Modeling.md)
+- [D1.6 – Risk Acceptance and Treatment (Avoid, Mitigate, Transfer, Accept)](memos/D1.6_Risk-Acceptance-and-Treatment.md)
+- [D1.7 – Security Control Types & Functions (Preventive, Detective...)](memos/D1.7_Security-Control-Types.md)
+- [D1.8 - Risk Assessment types (Qualitative, Quantitative: ALE, SLE, ARO)](memos/D1.8_Risk-Assessment-Types.md)
 - D1.9 – Business Continuity Planning (BIA, RTO, RPO, MTD)
 - D1.10 – Due Care vs Due Diligence
 - D1.11 – Intellectual Property (Copyright, Patent, Trade Secret...)
@@ -58,8 +58,8 @@ Each memo is bilingual (English / French) and focuses on high-yield topics and e
 
 ## 🛠️ Domain 3 – Security Architecture and Engineering
 
-- [D3.1 – Security Models (Bell–LaPadula, Biba, Clark–Wilson...)](docs/memos/D3.1_Security-Models.md)
-- [D3.2 – Cryptography (Symmetric, Asymmetric, Hashing, PKI)](docs/memos/D3.2_Cryptography.md)
+- [D3.1 – Security Models (Bell–LaPadula, Biba, Clark–Wilson...)](memos/D3.1_Security-Models.md)
+- [D3.2 – Cryptography (Symmetric, Asymmetric, Hashing, PKI)](memos/D3.2_Cryptography.md)
 - Digital Signatures & PKI (X.509, CA)
 - TCB, Security Perimeter & Reference Monitor
 - Certification vs Accreditation

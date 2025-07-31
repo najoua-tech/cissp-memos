@@ -1,0 +1,28 @@
+site_name: CISSP Technical Memos
+site_url: https://najoua-tech.github.io/cissp-memos
+repo_url: https://github.com/najoua-tech/cissp-memos
+repo_name: najoua-tech/cissp-memos
+
+theme:
+  name: material
+  language: fr
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.instant
+    - search.highlight
+
+nav:
+  - 🏠 Home: README.md
+  - 📚 CISSP Domains:
+      - Domain 1 – Security & Risk Management:
+          - Laws and Regulations: memos/D1.1_Laws-and-Regulations.md
+          - Governance: memos/D1.2_Governance_Policies_Standards_Guidelines_Procedures.md
+          - ISC² Code of Ethics: memos/D1.3_ISC2-Code-of-Ethics.md
+          - Threat Modeling: memos/D1.5_Threat-Modeling.md
+          - Risk Treatment: memos/D1.6_Risk-Acceptance-and-Treatment.md
+          - Security Controls: memos/D1.7_Security-Control-Types.md
+          - Risk Assessment: memos/D1.8_Risk-Assessment-Types.md
+      - Domain 3 – Security Architecture & Engineering:
+          - Security Models: memos/D3.1_Security-Models.md
+          - Cryptography: memos/D3.2_Cryptography.md

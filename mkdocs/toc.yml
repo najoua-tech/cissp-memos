@@ -1,0 +1,26 @@
+- title: Introduction
+  file: README.md
+
+- title: Domain 1 – Security & Risk Management
+  sections:
+    - title: D1.1 – Laws and Regulations
+      file: memos/D1.1_Laws-and-Regulations.md
+    - title: D1.2 – Governance: Policies, Standards, Guidelines, Procedures
+      file: memos/D1.2_Governance_Policies_Standards_Guidelines_Procedures.md
+    - title: D1.3 – ISC² Code of Ethics
+      file: memos/D1.3_ISC2-Code-of-Ethics.md
+    - title: D1.5 – Threat Modeling
+      file: memos/D1.5_Threat-Modeling.md
+    - title: D1.6 – Risk Acceptance and Treatment
+      file: memos/D1.6_Risk-Acceptance-and-Treatment.md
+    - title: D1.7 – Security Control Types
+      file: memos/D1.7_Security-Control-Types.md
+    - title: D1.8 – Risk Assessment Types
+      file: memos/D1.8_Risk-Assessment-Types.md
+
+- title: Domain 3 – Security Architecture and Engineering
+  sections:
+    - title: D3.1 – Security Models
+      file: memos/D3.1_Security-Models.md
+    - title: D3.2 – Cryptography
+      file: memos/D3.2_Cryptography.md
