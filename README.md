@@ -39,6 +39,3 @@ Each memo is bilingual (English / French) and focuses on high-yield topics and e
 
 ...
 
-## ✅ Planning
-
-- [Domain 1 – TODO Checklist](D1_TODO_Laws_Checklist.md)
