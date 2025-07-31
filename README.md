@@ -72,4 +72,22 @@ Each memo is bilingual (English / French) and focuses on high-yield topics and e
 
 ## 🔄 Domain 7 – Security Operations
 
-...
+- Digital Forensics & Evidence Types
+- Chain of Custody
+- Incident Response Lifecycle
+- Disaster Recovery: Cold, Warm, Hot Sites
+- Backup Types: Full, Incremental, Differential
+- DRP Testing: Tabletop, Walkthrough, Simulation…
+- Fire Suppression (Class A-D, wet/dry pipes)
+- Environmental Issues (Spike, Surge, Sag, Noise)
+- Operational Controls: IDS/IPS, SIEM, Sandboxes, Honeypots
+
+## 💻 Domain 8 – Software Development Security
+
+- SDLC Models: Waterfall vs Agile vs Spiral
+- Secure Coding Practices (Input Validation, Least Privilege)
+- Software Testing: Static / Dynamic / White / Black Box
+- OWASP Top 10 Vulnerabilities (XSS, SQLi, etc.)
+- Software Assurance & Change Management
+- Threat Modeling in Development
+- Deployment Hardening & Patch Management
