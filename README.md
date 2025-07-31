@@ -21,15 +21,10 @@ Each memo is bilingual (English / French) and focuses on high-yield topics and e
 ## 🔐 Domain 2 – Asset Security
 
 - Classification & Labeling of Data / Classification et étiquetage des données
-
 - Data Lifecycle (Rest / Motion / Use) / Cycle de vie des données
-
 - Data Roles: Owner, Custodian, Processor
-
 - Data Remanence & Sanitization (Erasing, Clearing)
-
 - Security Baselines (NIST SP 800-53)
-
 - Data Minimization / Minimisation des données
 
 ## 🛠️ Domain 3 – Security Architecture and Engineering
@@ -64,4 +59,27 @@ Each memo is bilingual (English / French) and focuses on high-yield topics and e
 - Password Attacks (Brute Force, Rainbow Table)
 - Biometrics (CER, FAR, FRR)
 
-...
+## 🧪 Domain 6 – Security Assessment and Testing
+
+- Security Testing vs Assessments vs Audits
+- Types of Audits (Internal, External, Third-party)
+- SSAE 16: Type I vs Type II
+- Vulnerability Assessment: CVE, CVSS, SCAP
+- Penetration Testing: Planning to Reporting
+- Code Review (Fagan), Static vs Dynamic, Fuzzing
+- Test Coverage (Branch, Condition, Loop)
+- Misuse Case, Interface Testing
+
+## 🔄 Domain 7 – Security Operations
+
+- Digital Forensics & Evidence Types
+- Chain of Custody
+- Incident Response Lifecycle
+- Disaster Recovery: Cold, Warm, Hot Sites
+- Backup Types: Full, Incremental, Differential
+- DRP Testing: Tabletop, Walkthrough, Simulation…
+- Fire Suppression (Class A-D, wet/dry pipes)
+- Environmental Issues (Spike, Surge, Sag, Noise)
+- Operational Controls: IDS/IPS, SIEM, Sandboxes, Honeypots
+
+  ...
