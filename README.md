@@ -1,5 +1,7 @@
 # 🛡️ CISSP Technical Memos (🇬🇧/🇫🇷)
 
+Ce dépôt contient mes mémos de révision personnels pour la certification CISSP. En construction continue./This repository contains my personal review memos for the CISSP certification. In continuous construction.
+
 This repository contains structured cybersecurity notes organized by CISSP domains, following the official ISC² CBK (Common Body of Knowledge).
 
 Each memo is bilingual (English / French) and focuses on high-yield topics and exam strategies.
