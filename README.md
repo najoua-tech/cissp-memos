@@ -20,9 +20,17 @@ Each memo is bilingual (English / French) and focuses on high-yield topics and e
 
 ## 🔐 Domain 2 – Asset Security
 
-- Classification & Labeling of Data
-- Data Lifecycle & Retention
-- Privacy Principles (GDPR, SCC, BCR)
+- Classification & Labeling of Data / Classification et étiquetage des données
+
+- Data Lifecycle (Rest / Motion / Use) / Cycle de vie des données
+
+- Data Roles: Owner, Custodian, Processor
+
+- Data Remanence & Sanitization (Erasing, Clearing)
+
+- Security Baselines (NIST SP 800-53)
+
+- Data Minimization / Minimisation des données
 
 ## 🛠️ Domain 3 – Security Architecture and Engineering
 
@@ -38,4 +46,3 @@ Each memo is bilingual (English / French) and focuses on high-yield topics and e
 - Covert Channels (Timing / Storage)
 
 ...
-
