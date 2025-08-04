@@ -132,7 +132,7 @@ Each memo is bilingual (English / French) and focuses on high-yield topics and e
 
 ## 🛠️ Mise à jour rapide du site
 
-Tu peux utiliser les scripts du dossier [`scripts/`](./scripts) pour déployer le site :
+Tu peux utiliser les scripts suivants pour déployer le site :
 
 - **Sur Linux/macOS (bash)** :
 
@@ -144,4 +144,13 @@ Tu peux utiliser les scripts du dossier [`scripts/`](./scripts) pour déployer l
 
   ```bash
   .\scripts\deploy.ps1
+  ```
+
+  Le contenu du script :
+
+  ```bash
+  git add .
+  git commit -m "Update site and contenu"
+  git push origin main
+  python -m mkdocs gh-deploy
   ```
