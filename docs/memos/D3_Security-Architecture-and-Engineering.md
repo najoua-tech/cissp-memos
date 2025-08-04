@@ -43,12 +43,34 @@
 
 ### 🔄 IPsec Components
 
+#### 🔐 IPsec – Overview
+
+**IPsec (Internet Protocol Security)** is a suite of protocols used to secure IP communications by authenticating and encrypting each IP packet in a communication session.
+
+#### 🔁 IPsec Modes
+
+| Mode          | Description                                                                       | Use Case                  |
+| ------------- | --------------------------------------------------------------------------------- | ------------------------- |
+| **Transport** | Encrypts **only the payload** (not the IP header)                                 | Host-to-host, end-to-end  |
+| **Tunnel**    | Encrypts the **entire packet (header + payload)** and wraps it in a new IP packet | Gateway-to-gateway (VPNs) |
+
+- 🔐 **Tunnel mode** is most common in **VPNs**, providing full-packet protection.
+- 📦 **Transport mode** is often used in **end-to-end connections** where both ends support IPsec.
+
 | Component  | Primary Role                                          | Confidentiality? |
 | ---------- | ----------------------------------------------------- | ---------------- |
 | **AH**     | Header integrity & authentication                     | ❌ No            |
 | **ESP**    | 🔐 Payload confidentiality, integrity, authentication | ✅ Yes           |
 | **IKE**    | Key exchange negotiation                              | ❌ No            |
 | **ISAKMP** | Key mgmt framework for security associations          | ❌ No            |
+
+### 🧠 Key Concepts:
+
+- **Security Association (SA)**: A one-way logical connection with defined parameters (algorithms, keys).
+- **IKE** is responsible for setting up SAs between hosts.
+- IPsec uses **ESP or AH** (or both), depending on the required protection.
+
+🔐 **ESP** is preferred in most real-world scenarios because it offers **confidentiality + integrity**.
 
 ### 🧪 Hashing vs HMAC
 
