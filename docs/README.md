@@ -59,7 +59,6 @@ Each memo is bilingual (English / French) and focuses on high-yield topics and e
 ## 🛠️ Domain 3 – Security Architecture and Engineering
 
 - [🛠️ Domain 3 – Security Architecture and Engineering](memos/D3_Security-Architecture-and-Engineering.md)
-
 - [D3.1 – Security Models (Bell–LaPadula, Biba, Clark–Wilson...)](memos/D3.1_Security-Models.md)
 - [D3.2 – Cryptography (Symmetric, Asymmetric, Hashing, PKI)](memos/D3.2_Cryptography.md)
 - Digital Signatures & PKI (X.509, CA)

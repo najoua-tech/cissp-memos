@@ -754,6 +754,39 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="🔄 IPsec Components">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ipsec-overview" class="md-nav__link">
+    <span class="md-ellipsis">
+      🔐 IPsec – Overview
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ipsec-modes" class="md-nav__link">
+    <span class="md-ellipsis">
+      🔁 IPsec Modes
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#key-concepts" class="md-nav__link">
+    <span class="md-ellipsis">
+      🧠 Key Concepts:
+    </span>
+  </a>
+  
 </li>
         
           <li class="md-nav__item">
@@ -954,6 +987,34 @@
 <li><strong>Integrity</strong></li>
 </ul>
 <h3 id="ipsec-components">🔄 IPsec Components</h3>
+<h4 id="ipsec-overview">🔐 IPsec – Overview</h4>
+<p><strong>IPsec (Internet Protocol Security)</strong> is a suite of protocols used to secure IP communications by authenticating and encrypting each IP packet in a communication session.</p>
+<h4 id="ipsec-modes">🔁 IPsec Modes</h4>
+<table>
+<thead>
+<tr>
+<th>Mode</th>
+<th>Description</th>
+<th>Use Case</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Transport</strong></td>
+<td>Encrypts <strong>only the payload</strong> (not the IP header)</td>
+<td>Host-to-host, end-to-end</td>
+</tr>
+<tr>
+<td><strong>Tunnel</strong></td>
+<td>Encrypts the <strong>entire packet (header + payload)</strong> and wraps it in a new IP packet</td>
+<td>Gateway-to-gateway (VPNs)</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>🔐 <strong>Tunnel mode</strong> is most common in <strong>VPNs</strong>, providing full-packet protection.</li>
+<li>📦 <strong>Transport mode</strong> is often used in <strong>end-to-end connections</strong> where both ends support IPsec.</li>
+</ul>
 <table>
 <thead>
 <tr>
@@ -985,6 +1046,13 @@
 </tr>
 </tbody>
 </table>
+<h3 id="key-concepts">🧠 Key Concepts:</h3>
+<ul>
+<li><strong>Security Association (SA)</strong>: A one-way logical connection with defined parameters (algorithms, keys).</li>
+<li><strong>IKE</strong> is responsible for setting up SAs between hosts.</li>
+<li>IPsec uses <strong>ESP or AH</strong> (or both), depending on the required protection.</li>
+</ul>
+<p>🔐 <strong>ESP</strong> is preferred in most real-world scenarios because it offers <strong>confidentiality + integrity</strong>.</p>
 <h3 id="hashing-vs-hmac">🧪 Hashing vs HMAC</h3>
 <table>
 <thead>
