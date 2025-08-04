@@ -26,3 +26,4 @@ nav:
       - Domain 3 – Security Architecture & Engineering:
           - Security Models: memos/D3.1_Security-Models.md
           - Cryptography: memos/D3.2_Cryptography.md
+          – Security Architecture and Engineering: memos/D3_Security-Architecture-and-Engineering.md
