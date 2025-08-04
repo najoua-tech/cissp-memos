@@ -1,5 +1,13 @@
 # 🛠️ Domain 3 – Security Architecture and Engineering
 
+## 📑 Table of Contents
+
+- [D3.1 – Security Models](#d31--security-models)
+- [D3.2 – Cryptography](#d32--cryptography)
+- [D3.3 – Architecture & Systems](#d33--architecture--systems)
+- [D3.4 – Physical & Environmental](#d34--physical--environmental)
+- [D3.5 – Secure Protocols](#d35--secure-protocols)
+
 ---
 
 ## 🔹 D3.1 – Security Models
